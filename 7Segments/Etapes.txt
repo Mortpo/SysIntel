@@ -1,0 +1,5 @@
+Etape 1:
+-Données sous forme de vecteur d'activation: 1 entrée par segment, activation 0 ou 1
+-7 entrées pour le percepton
+-Données de sorties sous forme de vecteur d'activation: 1 sorties par segment, activation probabilité de 0 à 1 (float) (0% à 100%)
+-7 sorties pour le percepton
